@@ -1,6 +1,5 @@
-# Longest_Substring
-Longest Substring without Repeating Character
-# Title: Sliding Window Solution for Longest Substring Without Repeating Characters
+# Sliding Window Solution for Longest Substring Without Repeating Characters
+# Longest Substring without Repeating Character
 
 ## Problem Description
 Given a string `s`, find the length of the longest substring without repeating characters.

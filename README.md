@@ -4,7 +4,7 @@
 ## Problem Description
 Given a string `s`, find the length of the longest substring without repeating characters.
 
-Leet Code Solution (https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/6203891/sliding-window-solution-for-longest-subs-daw6)
+Leet Code Solution : [3. Longest Substring Without Repeating Characters - Medium](https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/6203891/sliding-window-solution-for-longest-subs-daw6)
 
 ---
 
